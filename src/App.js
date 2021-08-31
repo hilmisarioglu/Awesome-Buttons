@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <HoverGlowEffect/>
-      <p>H<p/>
+      <p>Hi<p/>
     </div>
   );
 }
